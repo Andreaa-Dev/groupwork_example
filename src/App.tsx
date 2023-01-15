@@ -2,12 +2,13 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <p> this is Andrea</p>
+      <div>This is Thoa</div>
     </div>
   );
+   
+  
 }
-
-export default App;
